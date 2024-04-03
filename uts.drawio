@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T13:55:08.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="0clT_HNkQSTc62FrYkDB" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-03T14:53:14.745Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="jrqAtoKW35R501Cgwgjs" version="24.2.1" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="3350" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1109" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="u9i59XWlAlZomTc7qoZ3-47" value="pergi ke kasir" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" parent="1c1d494c118603dd-2" vertex="1">
           <mxGeometry x="115" y="600" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u9i59XWlAlZomTc7qoZ3-49" value="menu custom" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1c1d494c118603dd-2" vertex="1">
+        <mxCell id="u9i59XWlAlZomTc7qoZ3-49" value="menu kustomisasi" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1c1d494c118603dd-2" vertex="1">
           <mxGeometry x="100" y="320" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u9i59XWlAlZomTc7qoZ3-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1c1d494c118603dd-2" target="u9i59XWlAlZomTc7qoZ3-58" edge="1">
@@ -149,7 +149,7 @@
         <mxCell id="u9i59XWlAlZomTc7qoZ3-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1c1d494c118603dd-3" source="u9i59XWlAlZomTc7qoZ3-34" target="u9i59XWlAlZomTc7qoZ3-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u9i59XWlAlZomTc7qoZ3-34" value="menu custom" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1c1d494c118603dd-3" vertex="1">
+        <mxCell id="u9i59XWlAlZomTc7qoZ3-34" value="menu kustomisasi" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1c1d494c118603dd-3" vertex="1">
           <mxGeometry x="50" y="40" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u9i59XWlAlZomTc7qoZ3-35" value="mengkonfirmasi pesanan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1c1d494c118603dd-3" vertex="1">
