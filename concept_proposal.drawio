@@ -1,9 +1,117 @@
-<mxfile host="app.diagrams.net" modified="2024-04-04T00:55:22.705Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.2.1" etag="cxgh2aXuT6WamH0Ezro_" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-04T01:07:32.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="V0T0orQVlbXKy5HYUci7" version="24.2.1" type="github">
   <diagram name="Page-1" id="jZ2vDFkNyvWLQJcVeOjf">
-    <mxGraphModel>
+    <mxGraphModel dx="1121" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QMYQqG-1X2PSlfvSadcP-1" value="Website" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QMYQqG-1X2PSlfvSadcP-2" value="Masuk/Login (Admin Only )" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QMYQqG-1X2PSlfvSadcP-3" value="Posting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QMYQqG-1X2PSlfvSadcP-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QMYQqG-1X2PSlfvSadcP-1" target="QMYQqG-1X2PSlfvSadcP-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="650" as="sourcePoint" />
+            <mxPoint x="450" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QMYQqG-1X2PSlfvSadcP-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QMYQqG-1X2PSlfvSadcP-2" target="QMYQqG-1X2PSlfvSadcP-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="650" as="sourcePoint" />
+            <mxPoint x="450" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QMYQqG-1X2PSlfvSadcP-6" value="Landingpage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QMYQqG-1X2PSlfvSadcP-7" value="Search Engine Optimization" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QMYQqG-1X2PSlfvSadcP-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QMYQqG-1X2PSlfvSadcP-1" target="QMYQqG-1X2PSlfvSadcP-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="650" as="sourcePoint" />
+            <mxPoint x="450" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QMYQqG-1X2PSlfvSadcP-9" value="Hasil Postingan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QMYQqG-1X2PSlfvSadcP-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QMYQqG-1X2PSlfvSadcP-6" target="QMYQqG-1X2PSlfvSadcP-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="530" as="sourcePoint" />
+            <mxPoint x="450" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QMYQqG-1X2PSlfvSadcP-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QMYQqG-1X2PSlfvSadcP-3" target="QMYQqG-1X2PSlfvSadcP-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="530" as="sourcePoint" />
+            <mxPoint x="450" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QMYQqG-1X2PSlfvSadcP-13" value="Google Trend Keyword List" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QMYQqG-1X2PSlfvSadcP-14" value="Implementasi Keyword ke Postingan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QMYQqG-1X2PSlfvSadcP-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QMYQqG-1X2PSlfvSadcP-1" target="QMYQqG-1X2PSlfvSadcP-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="520" as="sourcePoint" />
+            <mxPoint x="440" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QMYQqG-1X2PSlfvSadcP-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QMYQqG-1X2PSlfvSadcP-7" target="QMYQqG-1X2PSlfvSadcP-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="540" as="sourcePoint" />
+            <mxPoint x="410" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QMYQqG-1X2PSlfvSadcP-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QMYQqG-1X2PSlfvSadcP-13" target="QMYQqG-1X2PSlfvSadcP-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="540" as="sourcePoint" />
+            <mxPoint x="410" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QMYQqG-1X2PSlfvSadcP-20" value="Affiliasi hasil postingan url ke medsos &amp;amp; backlink website" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QMYQqG-1X2PSlfvSadcP-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QMYQqG-1X2PSlfvSadcP-14" target="QMYQqG-1X2PSlfvSadcP-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="540" as="sourcePoint" />
+            <mxPoint x="410" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QMYQqG-1X2PSlfvSadcP-22" value="Postingan Masuk FYP / Rekomendasi Search Engine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QMYQqG-1X2PSlfvSadcP-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QMYQqG-1X2PSlfvSadcP-9" target="QMYQqG-1X2PSlfvSadcP-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="520" as="sourcePoint" />
+            <mxPoint x="490" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QMYQqG-1X2PSlfvSadcP-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QMYQqG-1X2PSlfvSadcP-20" target="QMYQqG-1X2PSlfvSadcP-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="520" as="sourcePoint" />
+            <mxPoint x="490" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
