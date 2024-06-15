@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2024-06-15T06:20:54.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" version="24.5.2" etag="5JaObvD5p7diIv4uDBuz" type="github">
+  <diagram name="Page-1" id="kqsGleUDRCL7-d-fDdRS">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Sistem Informasi Kasir Pujasera" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="84" width="240" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Manajemen Pemesanan" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="84" width="183" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Proses Pemesanan" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="560" width="144" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Proses Pembayaran" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="556" y="84" width="152" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Proses Pengambilan Pesanan" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="523" y="168" width="218" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0017578125;exitY=0.5;entryX=0.002305327868852459;entryY=0.5;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6311691407266459;exitY=0;entryX=0.0013020833333333333;entryY=0.5;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="498" y="17" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.002348019125683;exitY=0.5;entryX=0.0029296875;entryY=0.5;" edge="1" parent="1" source="3" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6311691407266459;exitY=1;entryX=0.0019710435779816513;entryY=0.5;" edge="1" parent="1" source="3" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="498" y="185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
