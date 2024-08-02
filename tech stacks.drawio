@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-02T11:03:28.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="XslsoFdzY8XYlsEifd_w" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-02T11:11:28.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="63K0i5lRMrFR7vwtmGbH" version="24.5.5" type="github">
   <diagram name="Page-1" id="V6EhIZvcOcwaaYpCKTlt">
     <mxGraphModel dx="2516" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,12 +11,12 @@
           <mxGeometry x="-25.369999999999997" y="455" width="135.37" height="111" as="geometry" />
         </mxCell>
         <mxCell id="hB4f03poWa5Al2iNP8c4-3" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" vertex="1" parent="1">
-          <mxGeometry x="180" y="630" width="145" height="139.2" as="geometry" />
+          <mxGeometry x="390" y="514.4" width="145" height="139.2" as="geometry" />
         </mxCell>
         <mxCell id="hB4f03poWa5Al2iNP8c4-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-download.com/wp-content/uploads/2016/09/MongoDB_logo_Mongo_DB.png;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="139.2" width="242.94" height="66" as="geometry" />
+          <mxGeometry x="-340" y="79.99999999999999" width="242.94" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="hB4f03poWa5Al2iNP8c4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hB4f03poWa5Al2iNP8c4-6" target="hB4f03poWa5Al2iNP8c4-11">
+        <mxCell id="hB4f03poWa5Al2iNP8c4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hB4f03poWa5Al2iNP8c4-6" target="hB4f03poWa5Al2iNP8c4-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hB4f03poWa5Al2iNP8c4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hB4f03poWa5Al2iNP8c4-6" target="hB4f03poWa5Al2iNP8c4-19">
@@ -65,7 +65,25 @@
           <mxGeometry x="220" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hB4f03poWa5Al2iNP8c4-28" value="garis penuh artinya sudah terjadi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="-10" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4f03poWa5Al2iNP8c4-33" value="Run by npm" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="170" width="532" height="752" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4f03poWa5Al2iNP8c4-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2108/PNG/512/npm_icon_130871.png;" vertex="1" parent="hB4f03poWa5Al2iNP8c4-33">
+          <mxGeometry x="5" y="3" width="137" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4f03poWa5Al2iNP8c4-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png;" vertex="1" parent="hB4f03poWa5Al2iNP8c4-33">
+          <mxGeometry x="290" y="70" width="83.48" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4f03poWa5Al2iNP8c4-37" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://s3.amazonaws.com/media-p.slid.es/uploads/794262/images/4810292/quasar-logo.png;" vertex="1" parent="hB4f03poWa5Al2iNP8c4-33">
+          <mxGeometry x="90" y="580" width="142" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4f03poWa5Al2iNP8c4-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hB4f03poWa5Al2iNP8c4-34" target="hB4f03poWa5Al2iNP8c4-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hB4f03poWa5Al2iNP8c4-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.493;entryY=1.092;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hB4f03poWa5Al2iNP8c4-37" target="hB4f03poWa5Al2iNP8c4-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
