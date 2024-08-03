@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="V6EhIZvcOcwaaYpCKTlt">
-    <mxGraphModel dx="3071" dy="2099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5402" dy="2764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NhjCy0NXMdO0h8nzIQNs-3" value="Nuclei Microservices" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="810" width="437.69" height="300" as="geometry" />
+          <mxGeometry x="-170" y="810" width="437.69" height="360" as="geometry" />
         </mxCell>
         <mxCell id="NhjCy0NXMdO0h8nzIQNs-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NhjCy0NXMdO0h8nzIQNs-8" target="NhjCy0NXMdO0h8nzIQNs-18">
           <mxGeometry relative="1" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="210" y="357" width="470" height="243" as="geometry" />
         </mxCell>
         <mxCell id="NhjCy0NXMdO0h8nzIQNs-11" value="First Variant" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="710" width="1000" height="500" as="geometry" />
+          <mxGeometry x="-200" y="710" width="1000" height="610" as="geometry" />
         </mxCell>
         <mxCell id="NhjCy0NXMdO0h8nzIQNs-7" value="Wpscan Microservice" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="NhjCy0NXMdO0h8nzIQNs-11">
           <mxGeometry x="550" y="100" width="420.00000000000006" height="310" as="geometry" />
@@ -125,7 +125,7 @@
           <mxGeometry x="230" y="240" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="NhjCy0NXMdO0h8nzIQNs-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seekvectors.com/files/download/234b110fb32958f68f318e13c7a0610e.png;" vertex="1" parent="NhjCy0NXMdO0h8nzIQNs-11">
-          <mxGeometry x="220" y="228" width="196.43" height="44" as="geometry" />
+          <mxGeometry x="230" y="228" width="196.43" height="44" as="geometry" />
         </mxCell>
         <mxCell id="NhjCy0NXMdO0h8nzIQNs-18" value="Second Variant" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="185" width="1010" height="460" as="geometry" />
@@ -188,10 +188,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NhjCy0NXMdO0h8nzIQNs-51" value="&lt;h3&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Keterbatasan tanpa redis&lt;/font&gt;&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;strong&gt;Persistence&lt;/strong&gt;: Tanpa Redis, data job hanya disimpan dalam memori. Jika server restart, semua data job akan hilang.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;strong&gt;Scalability&lt;/strong&gt;: Tidak mudah untuk menskalakan ke beberapa instance server karena state job hanya ada di memori lokal.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;strong&gt;Fault Tolerance&lt;/strong&gt;: Tidak ada mekanisme pemulihan otomatis jika proses gagal di tengah jalan.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1785" y="-430" width="680" height="360" as="geometry" />
+          <mxGeometry x="-1370" y="-380" width="680" height="360" as="geometry" />
         </mxCell>
         <mxCell id="NhjCy0NXMdO0h8nzIQNs-52" value="&lt;h3&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Alternatif Lain&lt;/font&gt;&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;strong&gt;In-Process Queues&lt;/strong&gt;: Gunakan struktur data dalam memori seperti array atau queue untuk mengelola tugas, tetapi ini tetap memiliki keterbatasan seperti yang disebutkan di atas.&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;strong&gt;External Message Broker&lt;/strong&gt;: Gunakan message broker lain seperti RabbitMQ atau Kafka jika Anda membutuhkan skalabilitas dan keandalan yang lebih tinggi.&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="-180" width="560" height="150" as="geometry" />
+          <mxGeometry x="-610" y="-390" width="560" height="150" as="geometry" />
         </mxCell>
         <mxCell id="NhjCy0NXMdO0h8nzIQNs-53" value="Forth Variant" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="-930" width="1000" height="470" as="geometry" />
@@ -210,6 +210,9 @@
         </mxCell>
         <mxCell id="NhjCy0NXMdO0h8nzIQNs-55" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seekvectors.com/files/download/234b110fb32958f68f318e13c7a0610e.png;" vertex="1" parent="NhjCy0NXMdO0h8nzIQNs-56">
           <mxGeometry x="480" y="278" width="196.43" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="NhjCy0NXMdO0h8nzIQNs-60" value="&lt;span style=&quot;font-size: 48px;&quot;&gt;Slow Like waiting my souls back&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-606.03" y="-750" width="516.03" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
