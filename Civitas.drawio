@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
-    <mxGraphModel dx="7718.5" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="6942.5" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -343,7 +343,7 @@
           <mxGeometry x="-4160" y="130" width="111" height="111" as="geometry" />
         </mxCell>
         <mxCell id="6B6lfxETkp5olKvNUY8W-97" value="Banter ngebut, tapi sangking ngebut e angel dikontrol" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-4000" y="1710" width="830" height="500" as="geometry" />
+          <mxGeometry x="-3980" y="1740" width="830" height="500" as="geometry" />
         </mxCell>
         <mxCell id="6B6lfxETkp5olKvNUY8W-101" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://turbocharger.cc/images/features/nextjs.png;" vertex="1" parent="6B6lfxETkp5olKvNUY8W-97">
           <mxGeometry x="489.99999999999955" y="349.9999999999999" width="112.85" height="80" as="geometry" />
