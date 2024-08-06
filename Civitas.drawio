@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
-    <mxGraphModel dx="2011" dy="999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="6839" dy="1498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -110,6 +110,54 @@
         </mxCell>
         <mxCell id="10b056a9c633e61c-30" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="1590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6B6lfxETkp5olKvNUY8W-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logospng.org/download/laravel/logo-laravel-icon-1024.png;" vertex="1" parent="1">
+          <mxGeometry x="-1620" y="320" width="174" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="6B6lfxETkp5olKvNUY8W-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png;" vertex="1" parent="1">
+          <mxGeometry x="-1890" y="420" width="171.43" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="6B6lfxETkp5olKvNUY8W-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.thehotskills.com/wp-content/uploads/2019/07/mongodb-logo-png.png;" vertex="1" parent="1">
+          <mxGeometry x="-1370" y="530" width="466.67" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6B6lfxETkp5olKvNUY8W-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://dwglogo.com/wp-content/uploads/2017/12/1100px_Redis_Logo_01.png;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="920" width="373.66" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="6B6lfxETkp5olKvNUY8W-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://brandlogos.net/wp-content/uploads/2021/11/postgresql-logo.png;" vertex="1" parent="1">
+          <mxGeometry x="-1770" y="656" width="264" height="264" as="geometry" />
+        </mxCell>
+        <mxCell id="6B6lfxETkp5olKvNUY8W-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oneteamsolutions.in/blogoneteam/wp-content/uploads/2020/05/REACT-JS-KOCHI.png;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="700" width="194" height="194" as="geometry" />
+        </mxCell>
+        <mxCell id="6B6lfxETkp5olKvNUY8W-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://turbocharger.cc/images/features/nextjs.png;" vertex="1" parent="1">
+          <mxGeometry x="-1980" y="940" width="213.95" height="151.67" as="geometry" />
+        </mxCell>
+        <mxCell id="6B6lfxETkp5olKvNUY8W-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeklogo.com/images/N/nuxt-logo-1CCC5F38FD-seeklogo.com.png;" vertex="1" parent="1">
+          <mxGeometry x="-1200" y="950" width="168.37" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6B6lfxETkp5olKvNUY8W-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-download.com/wp-content/uploads/2019/01/Golang_Logo.png;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="780" width="210.31" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="6B6lfxETkp5olKvNUY8W-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pluspng.com/img-png/laravel-logo-png-lumen-logo-png-transparent-amp-svg-vector-pluspng-2400x4827.png;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="1190" width="79.6" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6B6lfxETkp5olKvNUY8W-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png;" vertex="1" parent="1">
+          <mxGeometry x="-1633.73" y="1290" width="347.39" height="182.67" as="geometry" />
+        </mxCell>
+        <mxCell id="6B6lfxETkp5olKvNUY8W-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png;" vertex="1" parent="1">
+          <mxGeometry x="-1916.05" y="1100" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="6B6lfxETkp5olKvNUY8W-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="1170" width="331.56" height="186.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6B6lfxETkp5olKvNUY8W-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="960" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6B6lfxETkp5olKvNUY8W-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.mementotech.in/assets/images/icons/express.png;" vertex="1" parent="1">
+          <mxGeometry x="-2070" y="656" width="194" height="194" as="geometry" />
+        </mxCell>
+        <mxCell id="6B6lfxETkp5olKvNUY8W-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://thedataengineer.com.br/wp-content/uploads/2021/05/Elasticsearch-Logo-Color-V.png;" vertex="1" parent="1">
+          <mxGeometry x="-1150" y="180" width="422.4" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
