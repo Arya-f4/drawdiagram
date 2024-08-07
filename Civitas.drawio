@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
-    <mxGraphModel dx="6942.5" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="7258.5" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -300,9 +300,6 @@
         <mxCell id="6B6lfxETkp5olKvNUY8W-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://thedataengineer.com.br/wp-content/uploads/2021/05/Elasticsearch-Logo-Color-V.png;" vertex="1" parent="6B6lfxETkp5olKvNUY8W-89">
           <mxGeometry x="20.5" y="10" width="345.6" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="6B6lfxETkp5olKvNUY8W-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-download.com/wp-content/uploads/2019/01/Golang_Logo.png;" vertex="1" parent="6B6lfxETkp5olKvNUY8W-89">
-          <mxGeometry x="510" y="90" width="180" height="87.3" as="geometry" />
-        </mxCell>
         <mxCell id="6B6lfxETkp5olKvNUY8W-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logospng.org/download/laravel/logo-laravel-icon-1024.png;" vertex="1" parent="6B6lfxETkp5olKvNUY8W-89">
           <mxGeometry x="90" y="361" width="80" height="80" as="geometry" />
         </mxCell>
@@ -320,12 +317,6 @@
         </mxCell>
         <mxCell id="6B6lfxETkp5olKvNUY8W-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png;" vertex="1" parent="6B6lfxETkp5olKvNUY8W-89">
           <mxGeometry x="11.5" y="303.5" width="75" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="6B6lfxETkp5olKvNUY8W-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png;" vertex="1" parent="6B6lfxETkp5olKvNUY8W-89">
-          <mxGeometry x="740" y="203.67000000000007" width="138.2" height="72.67" as="geometry" />
-        </mxCell>
-        <mxCell id="6B6lfxETkp5olKvNUY8W-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png;" vertex="1" parent="6B6lfxETkp5olKvNUY8W-89">
-          <mxGeometry x="610" y="351" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6B6lfxETkp5olKvNUY8W-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://spin.atomicobject.com/wp-content/uploads/deno-logo.jpg;" vertex="1" parent="6B6lfxETkp5olKvNUY8W-89">
           <mxGeometry x="190" y="251" width="100" height="100" as="geometry" />
@@ -508,6 +499,24 @@
         </mxCell>
         <mxCell id="6B6lfxETkp5olKvNUY8W-144" value="RESTFULL&lt;div&gt;API&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="-3030" y="2465" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6B6lfxETkp5olKvNUY8W-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-download.com/wp-content/uploads/2019/01/Golang_Logo.png;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="752.7" width="180" height="87.3" as="geometry" />
+        </mxCell>
+        <mxCell id="6B6lfxETkp5olKvNUY8W-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="-1035" y="619.5" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6B6lfxETkp5olKvNUY8W-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6B6lfxETkp5olKvNUY8W-13" target="6B6lfxETkp5olKvNUY8W-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6B6lfxETkp5olKvNUY8W-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="280.0000000000001" width="138.2" height="72.67" as="geometry" />
+        </mxCell>
+        <mxCell id="6B6lfxETkp5olKvNUY8W-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6B6lfxETkp5olKvNUY8W-148" target="6B6lfxETkp5olKvNUY8W-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6B6lfxETkp5olKvNUY8W-148" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logospng.org/download/laravel/logo-laravel-icon-1024.png;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="440" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
