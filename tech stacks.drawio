@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="V6EhIZvcOcwaaYpCKTlt">
-    <mxGraphModel dx="5327" dy="2348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="8364" dy="4096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -213,24 +213,6 @@
         </mxCell>
         <mxCell id="NhjCy0NXMdO0h8nzIQNs-60" value="&lt;span style=&quot;font-size: 48px;&quot;&gt;Slow Like waiting my souls back&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-606.03" y="-750" width="516.03" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FTP2l5Wa_Xzv5u3el3PY-1" value="USI" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-2090" y="700" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FTP2l5Wa_Xzv5u3el3PY-2" value="Pentester" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-1840" y="440" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FTP2l5Wa_Xzv5u3el3PY-3" value="Approval" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-1710" y="550" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FTP2l5Wa_Xzv5u3el3PY-4" value="Unknown Bug Hunter&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-1670" y="455" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FTP2l5Wa_Xzv5u3el3PY-5" value="Reviewer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-1870" y="640" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FTP2l5Wa_Xzv5u3el3PY-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-1950" y="540" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
